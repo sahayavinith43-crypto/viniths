@@ -1,0 +1,73 @@
+p {
+  font-family: roboto, Arial;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+
+.thumbnail {
+width: 300px;
+display: block;
+
+}
+
+.search-bar {
+  font-size: 20px;
+  margin-left: 12px;
+  display: block;
+
+}
+
+.video-title {
+  margin-top: 0;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+
+
+.video-author {
+  font-size: 13px;
+  color: #606060;
+  margin-bottom: 4px;
+}
+
+.video-stats {
+  color: #606060;
+  font-size: 12px;
+  
+
+}
+
+.video-preview {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 12px;
+}
+
+
+.video-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.channel-pic {
+  
+}
+
+.video-info
+{
+  
+}
+
+.profile-pic {
+  width: 40px;
+  border-radius: 50px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
+}
+
